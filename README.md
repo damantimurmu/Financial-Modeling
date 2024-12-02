@@ -1,7 +1,6 @@
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
 # Financial-Modeling
 Financial analysis of Vodafone Idea Limited post-merge from 2018 to 2024.
+"https://www.linkedin.com/pulse/vis-financial-analysis-after-vodafone-merger-damanti-murmu-keywc/"
 
 ![Vodafoneidealogo](https://github.com/user-attachments/assets/bc0f4047-f025-4986-a57c-ef4a7f170b6a)
 
