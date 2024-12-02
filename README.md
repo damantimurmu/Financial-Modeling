@@ -15,7 +15,7 @@ Financial analysis of Vodafone Idea Limited post-merge from 2018 to 2024.
 ![SI](https://github.com/user-attachments/assets/13bf08f9-2606-4b25-b6ce-be1021a2553f)
 
 
-# Sales Depreciation Rate
+# Sales Depreciation
 ![SD](https://github.com/user-attachments/assets/6240cce4-630f-4b4f-b465-dcc2eeeb5a1f)
 
 # Sales Operating Expense
